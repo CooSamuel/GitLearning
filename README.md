@@ -74,5 +74,4 @@
 
   2. Usually, only the project owner himself has the permission to allow others' pull request. However, in our project, as we are all have *Write level permission*, which means we are the owner of the project. Therefore, everyone in the project team list can merge the request.
 
-     - ​
-
+ 
