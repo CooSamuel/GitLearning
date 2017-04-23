@@ -74,4 +74,31 @@
 
   2. Usually, only the project owner himself has the permission to allow others' pull request. However, in our project, as we are all have *Write level permission*, which means we are the owner of the project. Therefore, everyone in the project team list can merge the request.
 
- 
+     - Here, we are all allowed to comfirm the pull request:![pullRequest3](./pic/pullRequest3.png)
+
+     - **We don't need to edit others' file:** or this situation will occur:![pullRequest0-2](./pic/pullRequest0-2.png)
+
+       This is because: (I'll explan it in chinese) altered at the same time makes the git confused.![pullRequest0-2-sol](./pic/pullRequest0-2-sol.png)
+
+     - Delete what is wrong, or make some issue to discuss!
+
+- **Discuss and review your code:**
+
+  ![disczOnGithub](./pic/disczOnGithub.png)
+
+  1. There is an 'Issues' button on the menu:![disczOnGithub1](./pic/disczOnGithub1.png)
+     - We can create an issue to discuss the problem. we can attach some files there, or referencing some request or another issues under one issue.![disczOnGithub2](./pic/disczOnGithub2.png)
+     - Another usage of issue is with project:![project-issue](./pic/project-issue.png)
+       1. To create an project:![project1](./pic/project1.png)
+       2. ![project1-1](/Users/Samuel/Desktop/gitTest/pic/project1-1.png)
+       3. ![project2](./pic/project2.png)
+       4. ![project3](./pic/project3.png)
+       5. Here is how to link it to an issue:![project4-1](/Users/Samuel/Desktop/gitTest/pic/project4-1.png)
+       6. Details will in demo(![disczOnGithub3-1](./pic/disczOnGithub3-1.png))
+  2. On github it is essay when attach to specific files. 
+
+- **Deploy**
+
+  1. We can reviewed the history and find the 
+
+  ​
